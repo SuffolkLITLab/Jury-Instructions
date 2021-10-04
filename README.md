@@ -6,4 +6,4 @@ On the webpage, the similar jury instructons from other jurisdictions are at lea
 
 Continue to Similar Jury Instructions for <a href="https://suffolklitlab.org/Jury-Instructions/web/Georgia.html" target="_blank">Georiga</a>.
 
-Continue to Similar Jury Instructions for <a href="hhttps://suffolklitlab.org/Jury-Instructions/web/Kansas.html" target="_blank">Kansas</a>.
+Continue to Similar Jury Instructions for <a href="https://suffolklitlab.org/Jury-Instructions/web/Kansas.html" target="_blank">Kansas</a>.
