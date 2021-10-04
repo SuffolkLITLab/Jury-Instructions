@@ -4,4 +4,6 @@ The jury instructions are uploaded from the Internet Archive and are placed into
 
 On the webpage, the similar jury instructons from other jurisdictions are at least 90% similar. At the moment, only the civil pattern jury instructions for Georgia and Kansas are being compared. The goal is to include more jurisdictions and to allow different jurisdictions to be selected as the "base".
 
-Continue to <a href="https://suffolklitlab.org/Jury-Instructions/web" target="_blank">Jury Instruction Similarity</a>.
+Continue to Similar Jury Instructions for <a href="https://suffolklitlab.org/Jury-Instructions/web/Georgia.html" target="_blank">Georiga</a>.
+
+Continue to Similar Jury Instructions for <a href="hhttps://suffolklitlab.org/Jury-Instructions/web/Kansas.html" target="_blank">Kansas</a>.
